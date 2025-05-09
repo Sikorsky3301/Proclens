@@ -1,4 +1,4 @@
-# ProcLens.ai - System Process Monitoring Application
+# ProcLens.ai - Machine Learning Based System Process Monitoring Application
 
 ## Project Overview
 
